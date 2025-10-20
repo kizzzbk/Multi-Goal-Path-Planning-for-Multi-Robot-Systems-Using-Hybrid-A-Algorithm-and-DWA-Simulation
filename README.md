@@ -8,11 +8,11 @@ The system aims to ensure **collision-free**, **energy-efficient**, and **adapti
 ---
 
 ## 🚀 Key Features
-- 🔹 **Hybrid Planning:** Combines global (A*) and local (DWA) planners.
-- 🔹 **Multi-Robot Coordination:** Assigns multiple goals among robots using an energy-aware greedy algorithm.
-- 🔹 **Dynamic Obstacle Handling:** Avoids both static and moving obstacles in real time.
-- 🔹 **Energy-Aware Allocation:** Each robot’s energy is considered in goal assignment.
-- 🔹 **Simulation-Ready:** Designed for 2D simulated environments with static maps and dynamic agents.
+- **Hybrid Planning:** Combines global (A*) and local (DWA) planners.
+- **Multi-Robot Coordination:** Assigns multiple goals among robots using an energy-aware greedy algorithm.
+- **Dynamic Obstacle Handling:** Avoids both static and moving obstacles in real time.
+- **Energy-Aware Allocation:** Each robot’s energy is considered in goal assignment.
+- **Simulation-Ready:** Designed for 2D simulated environments with static maps and dynamic agents.
 
 ---
 

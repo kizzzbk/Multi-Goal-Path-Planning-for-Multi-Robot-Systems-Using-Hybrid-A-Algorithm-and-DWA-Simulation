@@ -79,28 +79,5 @@ The system aims to ensure **collision-free**, **energy-efficient**, and **adapti
 - Extending to **3D environments** or **non-holonomic systems**.
 - Applying **reinforcement learning** to optimize planner parameters.
 
----
-
-## 👨‍💻 Authors
-- **Nguyen Trung Thinh**, VinUniversity, Vietnam  
-- **Phan Anh**, Thuyloi University, Vietnam  
-- **Tran Thi Cam Giang**, Thuyloi University, Vietnam *(Corresponding author)*  
-- **Nguyen Ngoc Doanh**, VinUniversity, Vietnam  
-
----
-
-## 📚 Citation
-If you use this work, please cite as:
-```bibtex
-@article{thinh2025multi,
-  title={Multi-Goal Path Planning for Multi-Robot Systems in Dynamic Environments Using Hybrid A* Algorithm and Dynamic Window Approach},
-  author={Nguyen Trung Thinh and Phan Anh and Tran Thi Cam Giang and Nguyen Ngoc Doanh},
-  year={2025},
-  institution={VinUniversity and Thuyloi University, Vietnam}
-}
-```
-
----
-
 ## 🧾 Keywords
 `Robot Navigation`, `Path Planning`, `A*`, `DWA`, `Multi-Goal`, `Multi-Robot`, `Dynamic Environment`

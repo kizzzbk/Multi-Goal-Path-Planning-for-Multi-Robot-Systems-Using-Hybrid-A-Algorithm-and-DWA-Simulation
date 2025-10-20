@@ -1,4 +1,7 @@
 # 🧭 Multi-Goal Path Planning for Multi-Robot Systems in Dynamic Environments Using Hybrid A* and DWA
+
+<img src="simulationx4-ezgif.gif" width="400">
+
 ![Demo mô phỏng](simulationx4-ezgif.gif)
 
 ## 📖 Overview

@@ -2,8 +2,6 @@
 
 <img src="simulationx4-ezgif.gif" width="400">
 
-![Demo mô phỏng](simulationx4-ezgif.gif)
-
 ## 📖 Overview
 This project presents a **hybrid path planning framework** for **multi-robot, multi-goal navigation** in **dynamic environments** which integrates the **A*** algorithm for **global path planning** and the **Dynamic Window Approach (DWA)** for **local obstacle avoidance**.  
 The system aims to ensure **collision-free**, **energy-efficient**, and **adaptive navigation** for multiple autonomous robots operating simultaneously.
